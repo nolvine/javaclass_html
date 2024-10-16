@@ -1,0 +1,19 @@
+body{
+    font-family: avenir, sans-serif;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: black;
+}
+button{
+    background-color: darkgreen;
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    
+}
